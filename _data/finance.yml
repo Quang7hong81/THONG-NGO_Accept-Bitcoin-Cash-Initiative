@@ -1,0 +1,283 @@
+---
+websites:
+    - name: 1broker
+      url: https://1broker.com/?c=en/home
+      img: 1broker.png
+      twitter: 1brokercom
+      facebook: 1Brokercom
+      email_address: support@1Broker.com
+      bch: No
+      btc: Yes
+      othercrypto: No
+      
+    - name: Adirondack Insurance Exchange
+      url: http://www.aie-ny.com/
+      img: adirondackinsurnaceexchange.png
+      bch: No
+
+    - name: ADP
+      url: https://www.adp.com
+      twitter: adp
+      facebook: AutomaticDataProcessing
+      img: adp.png
+      bch: No
+
+    - name: Baden-Württembergische Bank
+      url: https://www.bw-bank.de/de/
+      bch: No
+      img: bw_bank.png
+      lang: de
+
+    - name: Bitbond
+      url: https://www.bitbond.com
+      img: bitbond.png
+      bch: No
+
+    - name: ClearScore
+      url: https://www.clearscore.com
+      twitter: ClearScore
+      facebook: clearscore
+      img: clearscore.png
+      bch: No
+
+    - name: Credit Karma
+      url: https://www.creditkarma.com
+      twitter: creditkarma
+      facebook: CreditKarma
+      img: creditkarma.png
+      bch: No
+
+    - name: ditech
+      url: https://www.ditech.com
+      twitter: ditech
+      facebook: ditech
+      img: ditech.png
+      bch: No
+
+    - name: FreeAgent
+      url: https://www.freeagent.com
+      img: freeagent.png
+      bch: No
+
+    - name: FreshBooks
+      url: https://www.freshbooks.com
+      img: freshbooks.png
+      twitter: freshbooks
+      facebook: FreshBooks
+      bch: No
+
+    - name: Geico
+      url: https://www.geico.com/
+      img: geico.png
+      twitter: geico_service
+      facebook: geico
+      bch: No
+
+    - name: Gusto
+      url: https://www.gusto.com
+      img: gusto.png
+      bch: No
+
+    - name: Hargreaves Lansdown
+      url: http://www.hl.co.uk
+      twitter: HLInvest
+      facebook: hargreaveslansdowninvest
+      img: hargreaveslansdown.png
+      bch: No
+
+    - name: HelloWallet
+      url: https://www.hellowallet.com
+      twitter: HelloWallet
+      facebook: hellowallet
+      img: hellowallet.png
+      bch: No
+
+    - name: InEx Finance
+      url: https://www.inexfinance.com/
+      twitter: InexFinance
+      facebook: inex.finance
+      img: inex.png
+      bch: No
+
+    - name: Intuit TurboTax
+      url: https://turbotax.intuit.com/
+      img: turbotax.png
+      bch: No
+
+    - name: Invoiced
+      url: https://invoiced.com/
+      img: invoiced.png
+      bch: No
+      
+    - name: Justworks
+      url: https://justworks.com/
+      img: justworks.png
+      bch: No
+      
+    - name: Kiva
+      url: https://www.kiva.org
+      twitter: kiva
+      facebook: kiva
+      img: kiva.png
+      bch: No
+
+    - name: Kualto
+      url: https://www.kualto.com
+      twitter: kualtoapp
+      img: kualto.png
+      bch: No
+
+    - name: LevelUp
+      url: https://www.thelevelup.com
+      twitter: TheLevelUp
+      facebook: LevelUpApp
+      img: levelup.png
+      bch: No
+
+    - name: Mint
+      url: https://www.mint.com
+      img: mint.png
+      bch: No
+
+    - name: Nexonia
+      url: https://www.nexonia.com/
+      facebook: nexonia
+      twitter: nexonia
+      img: nexonia.png
+      bch: No
+
+    - name: Noddle
+      url: https://www.noddle.co.uk
+      twitter: useyournoddle
+      facebook: noodleuk
+      img: noddle.png
+      bch: No
+
+    - name: Northwestern Mutual
+      url: https://www.northwesternmutual.com/
+      facebook: northwesternmutual
+      img: northwesternmutual.png
+      bch: No
+
+    - name: Paychex
+      url: https://www.paychex.com
+      img: paychex.png
+      bch: No
+
+    - name: Paycor
+      url: https://www.paycor.com
+      img: paycor.png
+      bch: No
+
+    - name: Paytrust
+      url: http://paytrust.quicken.com
+      img: paytrust.png
+      bch: No
+      
+    - name: Pocketsmith
+      url: https://www.pocketsmith.com
+      img: pocketsmith.png
+      bch: No
+
+    - name: Popmoney
+      url: https://www.popmoney.com
+      twitter: popmoney
+      facebook: popmoney
+      img: popmoney.png
+      bch: No
+
+    - name: President's Choice Financial
+      url: https://www.pcfinancial.ca
+      twitter: PCFinancial
+      facebook: PCFinancial
+      img: presidentschoice.png
+      bch: No
+
+    - name: Progressive
+      url: https://www.progressive.com
+      twitter: progressive
+      facebook: progressive
+      img: progressive.png
+      bch: No
+
+    - name: Quickbooks Online
+      url: https://quickbooks.intuit.com/
+      img: quickbooks.png
+      bch: No
+
+    - name: QuickFile
+      url: https://www.quickfile.co.uk
+      img: quickfile.png
+      bch: No
+
+    - name: Quizzle
+      url: https://www.quizzle.com
+      img: quizzle.png
+      twitter: Quizzle
+      bch: No
+
+    - name: Shoeboxed
+      url: https://www.shoeboxed.com/
+      twitter: Shoeboxed
+      facebook: shoeboxed
+      img: shoeboxed.png
+      bch: No
+
+    - name: SimpleTax
+      url: https://simpletax.ca/
+      img: simpletax.png
+      bch: No
+
+    - name: Taxact
+      url: https://www.taxact.com
+      img: taxact.png
+      bch: No
+
+    - name: TransferWise
+      url: https://transferwise.com
+      img: transferwise.png
+      bch: No
+
+    - name: Treasury Direct
+      url: https://www.treasurydirect.gov
+      img: treasurydirect.png
+      bch: No
+
+    - name: Valic
+      url: https://www.valic.com/
+      twitter: VALIC_retire
+      facebook: valic
+      img: valic.png
+      bch: No
+
+    - name: Vitality
+      url: https://www.vitality.co.uk
+      twitter: Vitality_UK
+      facebook: VitalityUK
+      img: vitality.png
+      bch: No
+
+    - name: WaveApps
+      url: https://www.waveapps.com
+      img: wave.png
+      bch: No
+      twitter: wavehq
+      facebook: waveHQ
+
+    - name: Xero
+      url: https://www.xero.com/
+      img: xero.png
+      bch: No
+
+    - name: Yodlee Moneycenter
+      url: https://yodleemoneycenter.com/
+      twitter: Yodlee
+      img: yodlee.png
+      bch: No
+
+    - name: You Need A Budget (YNAB)
+      url: https://www.youneedabudget.com/
+      twitter: ynab
+      facebook: iYNAB
+      img: ynab.png
+      bch: No
