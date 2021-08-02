@@ -1,0 +1,14 @@
+# Languages should be categorized according to ISO 639-1
+# Language codes (including within data files) should be in lowercase
+de:
+  work_tweet: "Bitte erwägen Sie, #BitcoinCash für Zahlungen zu akzeptieren @ TWITTERHANDLE - es ist \"Peer-to-Peer Electronic Cash\", das schnell, zuverlässig und sicher ist, mit niedrigen Gebühren. Mehr @"
+  progress_tweet: "Danke für die Annahme von Bitcoin Cash, @TWITTERHANDLE!"
+en:
+  work_tweet: "Please consider accepting #BitcoinCash for payments @TWITTERHANDLE - it’s \"Peer-to-Peer Electronic Cash\" that is fast, reliable, and secure, with low fees. More @"
+  progress_tweet: "Thanks for accepting Bitcoin Cash, @TWITTERHANDLE!"
+fr:
+  work_tweet: "S'il vous plaît envisager d'accepter #BitcoinCash pour les paiements @TWITTERHANDLE - c'est \"Peer-to-Peer Electronic Cash\" qui est rapide, fiable et sécurisé, avec des frais peu élevés. Plus @"
+  progress_tweet: "Merci d'avoir accepté Bitcoin Cash, @TWITTERHANDLE!"
+sv:
+  work_tweet: "Vänligen överväga att acceptera #BitcoinCash för betalningar @TWITTERHANDLE - det är \"Peer-to-Peer Electronic Cash\" som är snabb, pålitlig och säker, med låga avgifter. Mer @"
+  progress_tweet: "Tack för att du accepterade Bitcoin Cash, @TWITTERHANDLE!"
