@@ -1,0 +1,43 @@
+---
+websites:
+- name: Bitbacker.io
+  url: https://bitbacker.io/
+  img: bitbackerio.png
+  twitter: BitBacker_io
+  email_address: jonathan@bitbacker.io
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Crowd Supply
+  url: https://www.crowdsupply.com/
+  img: crowdsupply.png
+  btc: true
+  bch: false
+  twitter: crowd_supply
+  facebook: CrowdSupply
+  email_address: support@crowdsupply.com
+  exceptions:
+    text: Alternate forms of payment may incur additional service charges and fees,
+      and they may require pre-payment. To use them, you’ll need to contact orders@crowdsupply.com
+- name: Kickstarter
+  url: https://www.kickstarter.com
+  img: kickstarter.png
+  bch: false
+  twitter: kickstarter
+  facebook: Kickstarter
+- name: Pozible
+  url: https://www.pozible.com
+  img: pozible.png
+  bch: false
+  twitter: pozible
+- name: Thermometer Cash
+  url: https://thermometer.cash/
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Ulule
+  url: https://www.ulule.com/
+  twitter: ulule
+  facebook: ululeEN
+  img: ulule.png
+  bch: false

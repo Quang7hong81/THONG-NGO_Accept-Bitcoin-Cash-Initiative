@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: default
+  labels:
+    service: acceptbitcoincash
+  name: acceptbitcoincash
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      service: acceptbitcoincash
+  template:
+    metadata:
+      labels:
+        service: acceptbitcoincash
+    spec:
+      containers:
+      - image: acceptbitcoincash/acceptbitcoincash
+        name: acceptbitcoincash
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            memory: "16Mi"
+      restartPolicy: Always

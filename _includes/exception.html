@@ -1,0 +1,17 @@
+{%- if include.website.exceptions -%}
+	{%- capture html -%}
+	<div class='header'>
+		Exceptions &amp; Restrictions
+	</div>
+	<div class='content'>
+	{%- for exception in include.website.exceptions.text -%}
+	    {{ exception }}
+	{%- endfor -%}
+	</div>
+	{%- endcapture -%}
+	<span class="popup exception"
+		data-position="bottom center"
+		data-html="{{ html | strip_newlines }}">
+		<i class="warning sign red link icon"></i>
+	</span>
+{%- endif -%}
