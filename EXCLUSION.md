@@ -1,0 +1,3 @@
+acceptBitcoin.Cash Blacklist
+=================
+
