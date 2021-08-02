@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0">
+  
+{% seo %}
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=478559">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=478559">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=478559">
+  <link rel="manifest" href="/manifest.json?v=478559">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=478559" color="#F7941D">
+  <link rel="shortcut icon" href="/favicon.ico?v=478559">
+  <meta name="theme-color" content="#F7941D">
+  
+  {% include google-analytics.html %}
+	{% if site.GH_ENV == 'gh_pages' %} 
+		<link rel="preconnect" href="http://ocsp.digicert.com" crossorigin>
+	{% elsif site.SSLPRovider %}
+		<link rel="preconnect" href="{{ site.SSLProvider }}" crossorigin>
+	{% endif %}
+	<link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin>
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+	<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+	<link rel="preconnect" href="https://platform.twitter.com" crossorigin>
+	<link rel="preconnect" href="https://img.shields.io" crossorigin>
+	<link rel="preconnect" href="https://travis-ci.org" crossorigin>
+	<link rel="preconnect" href="https://min-api.cryptocompare.com" crossorigin>
+	<link rel="preconnect" href="https://api.travis-ci.org" crossorigin>
+	<link rel="preconnect" href="https://cdn.syndication.twimg.com" crossorigin>
+	<link rel="preconnect" href="https://syndication.twitter.com" crossorigin>
+	<link rel="preconnect" href="https://pbs.twimg.com" crossorigin>
+	<link rel="preconnect" href="https://abs.twimg.com" crossorigin>
+	<link rel="prefetch" href="/img/coin-bch-sm.png">
+	<link rel="prefetch" href="/img/pcb-subtle-green.png">
+	<link rel="prefetch" href="/img/placeholder.png">
+	<link rel="preload" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700" as="style">
+   <link rel="preload" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin" as="style">
+   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css" as="style" crossorigin="anonymous">
+	
+	<!-- Google Fonts should not use SRI hashes as the CSS served dynamically changes depending on browser -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700" crossorigin>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css"
+		integrity="sha384-vQPhfJdJkfTCHP7ouiqoAojjcDFuU346yP8z/pRpSn0xsWOfkMd+DkNmxns9jy4l" crossorigin="anonymous">
+		
+  {%- if page.has_search -%}
+	<link rel="stylesheet" href="/css/search-style.css">
+  {%- else -%}
+	<link rel="stylesheet" href="/css/style.css">
+  {%- endif -%}
+</head>
+
+<body>
+<!-- Global includes -->
+{% include js-warning.html %}
+{% include header.html %}
+
+{%- if page.has_nav -%}
+	{%- include segment/navbar.html -%}
+{%- endif -%}
+
+<!-- 'content' loads pages from the root (index.html/*.html) -->
+{{ content }}
+
+
+{%- if page.has_ticker -%}
+	{% include segment/ticker.html %}
+{%- endif -%}
+<!-- Global includes -->
+{% include fab.html %}
+{% include footer.html %}
+{% include modals/disclaimer.html %}
+{% include scripts.html %}
+</body>
+</html>
