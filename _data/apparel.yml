@@ -1,0 +1,862 @@
+---
+websites:
+- name: 6 Dollar Shirts
+  url: http://6dollarshirts.com
+  img: 6DollarShirts.png
+  twitter: 6DollarShirts
+  facebook: sixdollarshirts
+  bch: false
+  btc: false
+  othercrypto: false
+  exceptions:
+    text: Used to accept Bitcoin but was disabled after Coinbase Merchant Tools were
+      discontinued. Last checked May 5th, 2018
+- name: Affordable Jerseys
+  url: http://affordablejerseys.com
+  img: affordablejerseys.png
+  twitter: affordablejerz
+  facebook: affordablejerz
+  email_address: chapin@affordablejerseys.com
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://medium.com/chapin-labs/all-chapin-labs-e-commerce-companies-to-accept-bitcoin-cash-2bb40d95f94d
+- name: AstorBond.com
+  url: https://www.astorbond.com/
+  img: astorbond.png
+  twitter: AstorBond
+  facebook: astorbond
+  email_address: info@astorbond.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Astronaut Apparel
+  url: https://www.astronautapparel.com
+  img: astronautapparel.png
+  twitter: apparelastro
+  facebook: astronautapparel
+  email_address: brandon@astronautapparel.com
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://twitter.com/apparelastro/status/993870025294536705
+  keywords:
+  - coinbase
+- name: ATHEIST / The Meaningful Shoe Company
+  url: http://www.atheistberlin.com/
+  img: AtheistShoes.png
+  twitter: AtheistShoes
+  facebook: AtheistShoes
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Avocadostore
+  url: https://www.avocadostore.de/
+  img: avocadostore.png
+  twitter: avocadostore
+  facebook: avocadostore
+  bch: true
+  btc: true
+  othercrypto: true
+  lang: de
+  keywords:
+  - bitpay
+- name: Beloved Shirts
+  url: https://www.belovedshirts.com/
+  img: belovedshirts.png
+  twitter: BelovedShirts
+  facebook: BelovedShirts
+  bch: true
+  btc: true
+  othercrypto: true
+  lang: de
+  keywords:
+  - bitpay
+- name: Bitcoin Bling
+  url: http://cart.bitcoinbling.com/
+  img: bitcoinbling.png
+  bch: true
+  btc: true
+- name: BitDials
+  url: https://www.bitdials.eu/
+  img: bitdials.png
+  twitter: BitDials_eu
+  facebook: BitDials
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+  - globee
+- name: Bitgear
+  url: https://bitgear.co/
+  img: bitgear.png
+  email_address: support@bitgear.co
+  twitter: bitgearhq
+  facebook: bitgearhq
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: BohoHill
+  url: https://bohohill.com/
+  img: bohohill.png
+  twitter: bohohill
+  facebook: BohoHill
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Cameron Lee
+  url: https://www.cameronleeworldwide.com/
+  img: cameronlee.png
+  twitter: cameronleemusic
+  email_address: support@cameronleeworldwide.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Campus Creations
+  url: https://www.getccgear.com
+  img: getccgear.png
+  facebook: getccgear
+  email_address: dan@getccgear.com
+  region: na
+  country: US
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://www.yours.org/content/campus-creations---barpay-to-accept-bitcoin-cash-payments-7b048f25efa7
+- name: Clockwork Crypto
+  url: https://clockworkcrypto.com
+  img: clockworkcrypto.png
+  twitter: clockwork_crypt
+  facebook: clockworkcrypto
+  email_address: admin@clockworkcrypto.com
+  bch: false
+  btc: true
+  othercrypto: true
+  keywords:
+  - cryptocurrencycheckout
+- name: Coinspice
+  url: https://store.coinspice.io/
+  img: Coinspice.png
+  bch: true
+  btc: false
+  othercrypto: false
+  facebook: thiscoinspicewebsiteneedstoberemovednotinbusinesslost$15inbchonit.
+  email_address: falconwings24@gmail.com
+  region: na
+  country: US
+- name: CoinSpice Store
+  url: https://store.coinspice.io/
+  img: coinspicestore.png
+  twitter: coinspice
+  bch: true
+  btc: false
+  othercrypto: false
+  keywords:
+  - coinbase
+- name: Combatant Gentlemen
+  url: https://combatgent.com
+  img: combatgent.png
+  bch: false
+  twitter: CombatGent
+  facebook: combatgent
+- name: Corridor Digital
+  url: https://corridordigital.store/
+  img: corridordigital.png
+  twitter: corridordigital
+  facebook: corridordigital
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Crizzle's Buttons
+  url: https://www.etsy.com/shop/CrizzleOnEtsy
+  img: CrizzlesButtons.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: crizzlesbuttons
+  facebook: crizzlesbuttons2
+  email_address: crizzlesbuttonsinc@yahoo.com
+  country: US
+  state: WA
+  city: Spokane
+  exceptions:
+    text: When ordering from the etsy shop, select 'other' as your payment method
+      and send a message in regards as to how you wish to pay with crypto.
+- name: Cryptartica
+  url: https://cryptartica.com/
+  img: cryptartica.png
+  bch: true
+  btc: false
+  othercrypto: false
+- name: CRYPTOMATIC
+  url: https://cryptomatic.io
+  twitter: cryptomatic_io
+  facebook: cryptomatic
+  img: cryptomatic.png
+  bch: true
+  btc: true
+  othercrypto: true
+- name: CryptoVerge
+  url: http://www.cryptoverge.com/
+  img: cryptoverge.png
+  twitter: CryptoVerge
+  facebook: CryptoVerge
+  bch: false
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinpayments.net
+- name: CuffLinked
+  url: http://www.cufflinked.com.au/
+  img: cufflinked.png
+  twitter: cufflinkedAU
+  facebook: Cufflinked
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Culture Kings
+  url: https://www.culturekings.com.au/
+  img: culturekings.png
+  twitter: Culturekings
+  facebook: culturekings.com.au
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Datsusara
+  url: https://www.dsgear.com/
+  img: datsusara.png
+  twitter: DSgear
+  facebook: datsusara
+  email_address: dsinfo@dsgear.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Easy Optical
+  url: https://www.easyoptical.com/
+  img: easyoptical.png
+  twitter: easyopticaluk
+  facebook: easyoptical
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Eight Eyewear
+  url: https://iwear8.com/
+  img: eighteyewear.png
+  email_address: crystal@iwear8.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Enclave
+  url: https://enclavemfg.com/
+  img: enclave.png
+  twitter: EnclaveMfgCo
+  facebook: EnclaveMfg
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Everlane
+  url: https://www.everlane.com/
+  twitter: Everlane
+  img: everlane.png
+  bch: false
+  facebook: Everlane
+- name: Eyerim
+  url: https://www.eyerim.cz/
+  img: eyerim.png
+  facebook: eyerim.eyewear
+  region: eu
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Farkle Tees
+  url: https://farkleshirts.com/
+  img: farkletees.png
+  twitter: TeesFarkle
+  facebook: FarkleTees
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Frank & Beans
+  url: https://www.frankandbeans.com.au/
+  img: fbunderwear.png
+  twitter: fbunderwear
+  facebook: frankandbeansunderwear
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Full Circle Clothing
+  url: https://imfullcircle.com/
+  img: fullcircle.png
+  facebook: imfullcircle
+  email_address: contact@imfullcircle.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Fükitt
+  url: https://fukitt.com/
+  img: fukkit.png
+  twitter: fukittclothing
+  facebook: fukitt
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Giacomo Cortes
+  url: https://giacomocortes.com/
+  img: giacomocortes.png
+  twitter: GiacomoCortes
+  facebook: GiacomoCortes
+  bch: false
+  btc: false
+  othercrypto: false
+  exceptions:
+    text: Giacomo Cortes used to accept BTC, but as of 2019-03-21 stopped accepting
+      it
+- name: GORUCK
+  url: https://www.goruck.com/
+  img: goruck.png
+  twitter: GORUCK
+  facebook: GORUCK
+  bch: false
+  btc: true
+  othercrypto: false
+- name: Griz Coat
+  url: https://grizcoat.com/
+  img: grizcoat.png
+  facebook: GrizCoat
+  twitter: GrizCoat
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Hand and Sew
+  url: https://handandsew.com
+  img: handandsew.png
+  twitter: HandandSew
+  facebook: HandandSew
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Hat Like Dad
+  url: https://hatlikedad.com
+  img: hatlikedad.png
+  facebook: hatlikedad
+  email_address: hatlikedad@gmail.com
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.hatlikedad.com/blogs/news/who-accepts-crypto-as-payment
+  keywords:
+  - coinbase
+- name: Himalayan People
+  url: https://himalayanpeople.co.uk/
+  img: himalayanpeople.png
+  twitter: himpeeps
+  facebook: himalayanpeople
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Hipptee
+  url: https://hipptee.com/
+  img: hipptee.png
+  twitter: hipptees
+  facebook: hipptee
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.reddit.com/r/btc/comments/8kxprt/hippteecom_now_accepts_bch_and_prices_in_bch_too/
+  keywords:
+  - coinbase
+  - coinpayments.net
+  - globee
+- name: Hold Monkey
+  url: https://hodlmonkey.com/
+  img: hodlmonkey.png
+  twitter: HodlmonkeyHodl
+  facebook: hodlmonkeyshop
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinpayments.net
+- name: Honey Badger of Money
+  url: http://honeybadgerofmoney.com/
+  img: honeybadgerofmoney.png
+  twitter: Frankenmint
+  bch: false
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinpayments.net
+- name: INKCru & Co
+  url: https://inkcru.com/
+  img: inkcruco.png
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Joy Studio
+  url: https://joystudio.fr/
+  img: joystudio.png
+  email_address: joystudioparis@gmail.com
+  lang: fr
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Kigurumi.com
+  url: https://www.kigurumi.com/
+  img: kigurumicom.png
+  twitter: kigurumicanada
+  facebook: hellokigurumi
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Kimchisocks
+  url: https://kimchisocks.com/
+  twitter: kimchisocks
+  facebook: kimchisocks
+  img: kimchisocks.png
+  bch: true
+  btc: true
+  othercrypto: true
+  exceptions:
+    text: Currently accepting BCH if you request an address. Working on adding BCH
+      to the payment flow.
+- name: kisshoes.ch
+  url: https://www.kisshoes.ch/
+  img: kisshoes.png
+  twitter: kis_shoes
+  facebook: kisshoes.ch
+  email_address: admin@kisshoes.ch
+  bch: true
+  btc: true
+  othercrypto: true
+  country: ch
+  keywords:
+  - bitpay
+- name: Know Bitcoin
+  url: http://gettoknowbitcoin.com/
+  img: knowbitcoin.png
+  twitter: knowbitcoin
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Krypto Threadz
+  url: https://www.kryptothreadz.com/
+  img: kryptothreadz.png
+  twitter: KryptoThreadz
+  facebook: kryptothreadz
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+  - coinbase
+  - coinpayments.net
+- name: Lanieri S.r.l.
+  url: https://www.lanieri.com/
+  img: LanieriSrl.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: lanieriofficial
+  facebook: lanieriofficial
+  email_address: info@lanieri.com
+  keywords:
+  - bitpay
+- name: Liberty Store
+  url: https://www.libertystore.de
+  img: libertystore.png
+  twitter: LibertyStore_de
+  facebook: Libertarismus
+  email_address: janschmitz@libertystore.de
+  region: eu
+  country: DE
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Loomenaughty
+  url: https://loomenaughty.com
+  img: loomenaughty.png
+  twitter: loomenaughty
+  email_address: intl@loomenaughty.com
+  region: na
+  country: US
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://loomenaughty.com/help/
+- name: Maggie & Mae
+  url: https://www.maggieandmae.com/
+  img: maggieandmae.png
+  region: na
+  country: US
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: MCT WATCHES
+  url: http://www.mctwatches.com
+  img: mct_watches.png
+  twitter: mct_watches
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: http://www.mctwatches.com/news/buy-bitcoin-swiss-luxury-click
+- name: Mermaid Tail Store
+  url: https://mermaidtailstore.com
+  twitter: tail_store
+  facebook: mermaidtailstore
+  img: mermaidtailstore.png
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Mission Belt
+  url: https://missionbelt.com
+  img: missionbelt.png
+  twitter: MissionBeltCo
+  facebook: MissionBeltCo
+  email_address: support@missionbelt.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Molon Labe Brand
+  url: https://www.molonlabebrand.com/
+  img: molonlabebrand.png
+  facebook: molonlabe0
+  email_address: molonlabe@molonlabebrand.com
+  bch: true
+  btc: false
+  othercrypto: true
+  doc: https://www.facebook.com/molonlabe0/photos/a.676830492689110/676830459355780/?type=3&theater
+- name: My Best Life Apparel
+  url: http://mybestlifeapparel.com
+  img: MyBestLifeApparel.png
+  bch: true
+  btc: true
+  othercrypto: true
+  facebook: mybestlifeapparelstore
+  email_address: support@mybestlifeapparel.com
+  region: na
+  country: US
+  doc: http://mybestlifeapparel.com/bitcoin-accepted/
+- name: My Coconut Heart
+  url: https://www.mycoconutheart.com
+  img: MyCoconutHeart.png
+  bch: true
+  btc: true
+  othercrypto: false
+  facebook: mycoconutheart
+  email_address: customerservice@mycoconutheart.com
+  country: US
+  city: California
+- name: Negash
+  url: https://www.negash83.com/
+  img: negash.png
+  twitter: negash83
+  facebook: NegashDetroit
+  email_address: Contactus@NegashDetroit.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Octocool
+  url: http://octocool.com/
+  img: octocool.png
+  email_address: octocoolairconditionedshirts@gmail.com
+  twitter: octocoolclothes
+  facebook: octocoolairconditionedshirts
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.reddit.com/r/btc/comments/9i8kwk/i_got_octocool_to_start_accepting_bitcoin_cash/
+- name: Olympian Bitcoin Store
+  url: https://olympianbitcoin.store/
+  img: olympianbitcoin.png
+  twitter: OlympianBitcoin
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://olympianbitcoin.store/pages/faq
+  keywords:
+  - coinpayments.net
+- name: Pastease
+  url: https://pastease.com/
+  img: pastease.png
+  facebook: PasteaseFans
+  twitter: Pastease
+  bch: false
+  btc: true
+  othercrypto: true
+- name: Petstarsell
+  url: https://petstarsell.com
+  img: petstarsell.png
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Picky Mouse
+  url: https://pickymouse.com/
+  facebook: Pickymouse
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://pickymouse.com/pages/payments
+  keywords:
+  - coinbase
+- name: Pirate Printing Company
+  url: https://pirateprintingcompany.com/
+  img: pirateprintingcompany.png
+  facebook: pirateprintingcompany
+  twitter: PiratePrintCo
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Print-ted.com
+  url: https://print-ted.com
+  img: Printtedcom.png
+  bch: true
+  btc: false
+  othercrypto: true
+  twitter: printtedstore
+  email_address: info@print-ted.com
+  doc: https://print-ted.com/pages/payment-methods
+  keywords:
+  - coinpayments.net
+- name: Pro Crypto
+  url: http://procrypto.net/
+  img: procrypto.png
+  twitter: Be_Pro_Crypto
+  facebook: procrypto
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Relax Wear
+  url: https://relax-wear.com/
+  img: relaxwear.png
+  facebook: RelaxWearOfficial
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: RespawnWear
+  url: https://respawnwear.com/
+  img: respawnwear.png
+  facebook: theRespawnWear
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Shenova Fashion
+  url: https://www.shenovafashion.com
+  img: shenovafashion.png
+  twitter: ShenovaFashion
+  facebook: Shenovafashion
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+  - coinbase
+- name: Sherilyn Shop
+  url: https://SherilynShop.com
+  img: SherilynShop.png
+  bch: true
+  btc: true
+  othercrypto: true
+  facebook: sherilynshop
+  email_address: sherilynshopofficial@gmail.com
+  country: US
+  keywords:
+  - coinbase
+  exceptions:
+    text: This is a drop shipper. The items sold might have a high markup over normal
+      prices
+- name: Shirtwascash
+  url: https://thatshirtwascash.com/
+  img: shirtwascash.png
+  twitter: shirtwascash
+  facebook: shirtwascash
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Siam Secrets Store
+  url: https://www.siam-secrets-store.com/
+  img: siamsecrets.png
+  twitter: Siam_Secrets
+  facebook: SiamSecretsStore
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.siam-secrets-store.com/page/shop_with_cryptocurrencies
+- name: Soccer Shirts Online
+  url: https://soccershirtsonline.com/
+  img: soccershirtsonline.png
+  twitter: soccershirts
+  facebook: SoccerShirtsOnline
+  bch: false
+  btc: true
+  othercrypto: false
+- name: Sure Design T-Shirts
+  url: https://www.suredesigntshirts.com/
+  img: suredesign.png
+  twitter: SureDesignTees
+  facebook: SureDesignTshirts
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Tens
+  url: https://tens.co/
+  img: tens.png
+  twitter: tens
+  facebook: tens
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: TGT Store
+  url: https://www.tightstore.com/
+  img: tgtstore.png
+  twitter: keepitTGT
+  facebook: keepitTGT
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: The Salty Porcupine
+  url: https://thesaltyporcupine.com/
+  img: thesaltyporcupine.png
+  email_address: thesaltyporcupine@gmail.com
+  bch: false
+  btc: true
+  othercrypto: true
+- name: Tip-Top Shop
+  url: https://tiptopshop.pagekite.me/
+  img: tiptopshop.png
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Tortuga
+  url: https://www.tortugabackpacks.com/
+  img: TortugaBackpack.png
+  twitter: TortugaBackpack
+  facebook: tortugabackpacks
+  bch: true
+  btc: true
+  othercrypto: false
+- name: trapr street clothing
+  url: https://www.trapr.shop
+  img: traprstreetclothing.png
+  bch: true
+  btc: true
+  othercrypto: true
+  facebook: trapr.official
+  email_address: martin.vincetic@gmail.com
+  keywords:
+  - coinbase
+- name: Uhrzeit.org
+  url: https://www.uhrzeit.org/
+  img: uhrzeitorg.png
+  twitter: uhrzeitorg
+  facebook: uhrzeit
+  email_address: shop@uhrzeit.org
+  bch: true
+  btc: true
+  othercrypto: true
+  region: eu
+  keywords:
+  - bitpay
+- name: Vannen Watches
+  url: https://www.vannenwatches.com/
+  img: vannenwatches.png
+  facebook: vannenwatches
+  twitter: vannenwatches
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: Warby Parker
+  url: https://www.warbyparker.com
+  twitter: WarbyParkerHelp
+  img: warbyparker.png
+  bch: false
+- name: Wikan & Saged
+  url: http://wikansaged.com/
+  img: wikansaged.png
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: WikiLeaks Shop
+  url: https://wikileaks.shop/
+  twitter: WikiLeaksShop
+  facebook: wikileaks
+  img: wikileaks.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://wikileaks.shop/pages/faq
+- name: Youphoria Festivalwear
+  url: https://youphoriafestivalwear.com/
+  img: YouphoriaFestivalwear.png
+  bch: true
+  btc: true
+  othercrypto: true
+  facebook: youphoriafestivalwear
+  email_address: youphoriafestivalwear@gmail.com
+  doc: https://www.facebook.com/youphorialove/photos/a.372299386611232/580019099172592/?type=3&theater
+  keywords:
+  - bitpay
+- name: Zappos
+  url: https://www.zappos.com/
+  twitter: Zappos
+  facebook: Zappos
+  img: zappos.png
+  bch: false
