@@ -1,0 +1,260 @@
+---
+websites:
+- name: Antiwar.com
+  url: https://antiwar.com/
+  img: antiwar.png
+  twitter: Antiwarcom
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.antiwar.com/cryptocurrencies/
+- name: Bitcoin Cashers
+  url: https://bitcoincashers.org/
+  img: bitcoincashfund.png
+  twitter: BitcoinCashA
+  facebook: bitcoincasha
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://bitcoincashers.org/get-involved/donate/
+- name: Coins 4 Clothes
+  url: https://www.coins4clothes.com
+  img: coins4clothes.png
+  twitter: coins4clothes
+  facebook: coins4clothes
+  region: na
+  country: CA
+  city: Toronto
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Common Crawl
+  url: http://commoncrawl.org/
+  img: commoncrawl.png
+  twitter: commoncrawl
+  email_address: info@commoncrawl.org
+  bch: false
+  btc: false
+  othercrypto: false
+  exceptions:
+    text: Common Crawl used to accept BTC, but as of 2018-05-01 stopped accepting
+      it
+- name: Dementia Society Of America
+  url: https://www.dementiasociety.org/crypto
+  img: DementiaSocietyOfAmerica.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: dementiaorg
+  facebook: dementiaorg
+  email_address: info@dementiasociety.org
+  doc: https://medium.com/@thegivingblock/dementia-society-of-america-begins-accepting-bitcoin-btc-ethereum-eth-and-litecoin-ltc-dc6913ed0673
+  keywords:
+  - coinbase
+- name: Democracy at Work
+  url: https://www.democracyatwork.info/
+  img: daw.png
+  twitter: democracyatwrk
+  facebook: democracyatwrk
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://bitpay.com/267321/donate
+- name: East African Center
+  url: https://www.eastafricancenter.org/
+  img: eac.png
+  twitter: eackenya
+  facebook: eackenya
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Electronic Frontier Foundation
+  url: https://www.eff.org/
+  img: eff.png
+  twitter: eff
+  facebook: eff
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://supporters.eff.org/donate/
+  keywords:
+  - bitpay
+- name: Ethiopiaid Australia
+  url: https://ethiopiaid.org.au/
+  img: EthiopiaidAustralia.png
+  bch: true
+  btc: false
+  othercrypto: true
+  facebook: ethiopiaidaus
+  email_address: info@ethiopiaid.org.au
+  doc: https://ethiopiaid.org.au/blog/ethiopiaid-cryptocurrency-donation
+- name: FragDenStaat.de
+  url: https://fragdenstaat.de/
+  img: fragdenstaatde.png
+  twitter: fragdenstaat
+  facebook: fragdenstaat.de
+  bch: true
+  btc: true
+  othercrypto: false
+  region: eu
+  country: DE
+  lang: de
+  doc: https://fragdenstaat.de/spenden/
+- name: Free Law Project
+  url: https://free.law/
+  img: freelawproject.png
+  twitter: freelawproject
+  facebook: freelawproject
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.courtlistener.com/donate/
+- name: Growing Veterans
+  url: https://growingveterans.org/
+  img: growingveterans.png
+  twitter: growingveterans
+  facebook: growingveterans
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://growingveterans.org/how-to-help/cryptocurrency.html
+  keywords:
+  - bitpay
+  - globee
+- name: Have I Been Pwned
+  url: https://haveibeenpwned.com/
+  img: haveibeenpwned.png
+  twitter: troyhunt
+  facebook: troyahunt
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://haveibeenpwned.com/Donate
+- name: Have I Been Sold?
+  url: https://haveibeensold.app/
+  email_address: contact@bitfalls.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Kokesh For President
+  url: https://kokeshforpresident.com/
+  img: kokeshforpresident.png
+  twitter: adamkokesh
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://kokeshforpresident.com/contribute/
+  keywords:
+  - bitpay
+- name: Libertarian Party
+  url: https://www.lp.org/
+  img: libertarianparty.png
+  twitter: lpnational
+  facebook: libertarians
+  email_address: info@lp.org
+  bch: true
+  btc: true
+  othercrypto: true
+  region: na
+  country: US
+  doc: https://www.lp.org/donate/bitcoin/
+  keywords:
+  - bitpay
+- name: Lupus Foundation of America
+  url: https://www.lupus.org/
+  img: lupusfoundation.png
+  twitter: LupusOrg
+  facebook: LupusFoundationofAmerica
+  bch: true
+  btc: true
+  othercrypto: true
+  region: na
+  country: US
+  doc: https://www.lupus.org/news/lupus-foundation-of-america-announces-capability-to-accept-cryptocurrencies
+- name: Mises Institute
+  url: https://mises.org/
+  img: mises.png
+  twitter: mises
+  facebook: mises.institute
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://mises.org/giving/bitcoin-and-paypal-gifts
+- name: NutritionFacts.org
+  url: https://nutritionfacts.org/
+  img: nutritionfacts.png
+  twitter: nutrition_facts
+  facebook: NutritionFacts.org
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://nutritionfacts.org/donate/
+- name: Piratpartiet
+  url: https://www.piratpartiet.se/
+  img: piratpartiet.png
+  twitter: piratpartiet
+  facebook: piratpartiet
+  bch: true
+  btc: true
+  othercrypto: false
+  region: eu
+  country: SE
+  lang: sv
+  doc: https://crowdfunding.piratpartiet.se/?page_id=85
+- name: SENS Research Foundation
+  url: https://www.sens.org/
+  img: sens.png
+  facebook: sensf
+  twitter: senstweet
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.sens.org/donate
+- name: The Ocean Cleanup
+  url: https://www.theoceancleanup.com
+  img: theoceancleanup.png
+  twitter: theoceancleanup
+  facebook: TheOceanCleanup
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.theoceancleanup.com/fund/
+- name: Tony Hawk Foundation
+  url: https://tonyhawkfoundation.org/
+  img: tonyhawkfoundat.png
+  twitter: THF
+  facebook: tonyhawkfoundation
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://tonyhawkfoundation.org/bitpay/
+  keywords:
+  - bitpay
+- name: Wau Holland Stiftung
+  url: https://www.wauland.de/
+  twitter: wauland
+  bch: false
+  btc: true
+  othercrypto: false
+  doc: https://www.wauland.de/en/donation.html
+- name: WeAreChange
+  url: https://wearechange.org/
+  img: wearechange.png
+  twitter: LukeWeAreChange
+  facebook: WeAreChange.org
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://wearechange.org/donate/
+- name: Wikipedia
+  url: https://www.wikipedia.org/
+  img: wikipedia.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: Wikipedia
+  doc: https://donate.wikimedia.org/wiki/Ways_to_Give#bitcoin
+  keywords:
+  - bitpay
