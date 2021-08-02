@@ -1,0 +1,288 @@
+---
+websites:
+- name: Apache Software Foundation
+  url: https://www.apache.org/
+  img: apachesoftwarefoundation.png
+  twitter: TheASF
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.apache.org/foundation/contributing.html#Bitcoin
+- name: Binary Fortress Software
+  url: https://www.binaryfortress.com/
+  img: binaryfortress.png
+  twitter: BinaryFortress
+  facebook: BinaryFortress
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.binaryfortress.com/Donate/
+  keywords:
+  - bitpay
+- name: Bitcoin ABC
+  url: https://www.bitcoinabc.org/
+  img: bitcoinabc.png
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Bitcoin Cash Node
+  url: https://bitcoincashnode.org/
+  img: bitcoincashnode.png
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Bitcoin Unlimited
+  url: https://www.bitcoinunlimited.info/
+  img: bitcoinunlimited.png
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.bitcoinunlimited.info/donate
+- name: CashFusion
+  url: https://cashfusion.org/
+  img: cashfusion.png
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://www.bitcoin.com/cashfusion-fund/
+- name: CashShuffle
+  url: https://cashshuffle.com/
+  img: cashshuffle.png
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Cronnit
+  url: https://cronnit.us/
+  img: cronnit.png
+  bch: true
+  btc: false
+  othercrypto: true
+  doc: https://cronnit.us/donate
+- name: DAVDroid
+  url: https://www.davdroid.com/donate/
+  img: DAVDroid.png
+  twitter: davdroidapp
+  facebook:
+  region: eu
+  country: AT
+  city: Bad Vöslau
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://twitter.com/davdroidapp/status/1045246447682310146
+- name: Electron Cash
+  url: https://electroncash.org/
+  img: electroncash.png
+  bch: true
+  btc: false
+  doc: https://electroncash.org/#faq
+- name: Emuparadise
+  url: https://www.emuparadise.me
+  img: emuparadise.png
+  twitter: emuparadise
+  facebook: emuparadise
+  email_address: info@emuparadise.org
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.emuparadise.me/donatebtc.php
+- name: Flowee the Hub
+  url: https://flowee.org/
+  img: floweethehub.png
+  twitter: floweethehub
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://flowee.org/donations/
+- name: FossHub
+  url: https://www.fosshub.com/
+  img: fosshub.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.fosshub.com/crypto.html
+- name: GNOME
+  url: https://www.gnome.org/
+  img: gnome.png
+  twitter: gnome
+  facebook: GNOME
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.gnome.org/support-gnome/donate/
+  keywords:
+  - bitpay
+- name: KDE
+  url: https://www.kde.org/
+  img: kde.png
+  twitter: kdecommunity
+  facebook: kde
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.kde.org/community/donations/others.php
+  keywords:
+  - bitpay
+- name: KeePassXC
+  url: https://keepassxc.org/
+  img: keepassxc.png
+  twitter: KeePassXC
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://keepassxc.org/donate/
+- name: LibreOffice
+  url: https://www.libreoffice.org/
+  img: libreoffice.png
+  twitter: libreoffice
+  facebook: libreoffice.org
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.libreoffice.org/donate/
+- name: Linux Mint
+  url: https://linuxmint.com/
+  img: linux-mint.png
+  twitter: linux_mint
+  facebook: Linux-Mint-185238108180410
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://linuxmint.com/donors.php
+- name: OBS Project
+  url: https://obsproject.com/
+  img: OBSProject.png
+  bch: true
+  btc: true
+  othercrypto: false
+  twitter: obsproject
+  doc: https://obsproject.com/donate
+- name: OpenBSD Foundation
+  url: https://www.openbsdfoundation.org/
+  img: openbsd.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.openbsdfoundation.org/donations.html
+  keywords:
+  - bitpay
+  exceptions:
+    text: BitPay limits the size of transactions we can accept to $10000 per day.
+      Larger BitCoin donations may need to be split up and donated over multiple days.
+- name: Pi-hole
+  url: https://pi-hole.net
+  img: pihole.png
+  twitter: The_Pi_Hole
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://pi-hole.net/donate/
+- name: postale.io
+  url: https://postale.io/
+  img: postaleio.png
+  bch: true
+  btc: true
+  othercrypto: true
+  email_address: support@postale.io
+  doc: https://postale.io/donate  
+- name: Python Software Foundation
+  url: https://www.python.org/
+  img: pythonfoundation.png
+  bch: false
+  twitter: pypi
+  doc: https://www.python.org/psf/donations/
+- name: Reddit Enhancement Suite
+  url: https://redditenhancementsuite.com/
+  img: redditenhanceme.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://redditenhancementsuite.com/contribute/
+  keywords:
+  - bitpay
+- name: Riseup Mail
+  url: https://riseup.net/
+  img: riseup.png
+  twitter: riseupnet
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://riseup.net/donate
+  exceptions:
+    text: This is a free service that accepts donations. They refer to Bitcoin Cash
+      improperly as BCash. We hope they will realize the error of this misnaming but
+      appreciate the opportunity to donate to them in Bitcoin Cash to support their
+      project.
+- name: sci-hub
+  url: https://sci-hub.tw/
+  img: Sci_Hub.png
+  twitter: Sci_Hub
+  facebook: sci.hub.org
+  bch: false
+  btc: true
+  othercrypto: false
+- name: ShareX
+  url: https://getsharex.com/
+  img: sharex.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://getsharex.com/donate/
+- name: Tor Project
+  url: https://www.torproject.org/
+  img: torproject.png
+  twitter: torproject
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.torproject.org/donate/donate-options.html
+  keywords:
+  - bitpay
+  exceptions:
+    text: Due to the current state of the Bitcoin market, our payment processor, Bitpay,
+      will not allow us to accept donations of less than 5 USD. However, we can also
+      accept donations, including smaller donations, through Bitcoin Cash. Send us
+      a tip with @tipprbot on Twitter!
+- name: Tutanota
+  url: https://www.tutanota.com
+  img: Tutanota.png
+  twitter: tutanotateam
+  facebook: tutanota
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.tutanota.com/community#donate
+- name: VeraCrypt
+  url: https://veracrypt.fr/
+  img: veracrypt.png
+  twitter: VeraCrypt_IDRIX
+  facebook: veracrypt
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://veracrypt.fr/en/Donation.html#BitcoinCash
+- name: voidtools
+  url: https://www.voidtools.com/
+  img: voidtools.png
+  email_address: david@voidtools.com
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.voidtools.com/donate/
+- name: Vue.js
+  url: https://vuejs.org
+  img: vue.png
+  twitter: vuejs
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://vuejs.org/support-vuejs/
+- name: WinSCP
+  url: https://winscp.net/
+  img: winscp.png
+  twitter: winscpnet
+  facebook: winscp
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://winscp.net/donate.php
