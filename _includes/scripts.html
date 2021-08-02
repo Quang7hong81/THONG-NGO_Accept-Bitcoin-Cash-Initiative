@@ -1,0 +1,35 @@
+<!-- 3rd Party Libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" 
+		integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" 
+		crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"
+        integrity="sha384-d0+ufSr6Y7eU5V6E8Bt1AioIn4ParGkr0AwQ5RZD/S2mTaiEXMV78mqaYKMLE2qv"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jets/0.13.0/jets.min.js"
+        integrity="sha384-3XpZKO/6IouOQmpAvQxLkXEb/pwxGCYqUo139/l6M12U3HmeWnna/qKWIgIJTLPV"
+        crossorigin="anonymous"></script>
+<!-- AB.C JS -->
+<script src="/js/main.js"></script>
+
+{% if page.id == "adult-listings" %}
+<!-- Adult section warning modal -->
+<script>
+    $(document).ready(function () {
+
+      $('#adult-warning-checkbox').click(function(){
+        if( $(this).prop('checked') ) {
+          createCookie('hideAdultWarning')
+        } else {
+          eraseCookie('hideAdultWarning')
+        }
+      });
+
+      if (!readCookie('hideAdultWarning')) {
+        $('.ui.modal.adult-warning')
+          .modal('setting','closable', false)
+          .modal('show');
+      }
+    });
+    {% include js/cookie.js %}
+</script>
+{% endif %}
