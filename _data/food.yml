@@ -1,0 +1,755 @@
+---
+websites:
+- name: 3 Bro's Coffee
+  url: https://www.3broscoffee.com
+  img: BrosCoffee.png
+  bch: true
+  btc: false
+  othercrypto: true
+  facebook: the3broscoffee
+  email_address: the3broscoffee@gmail.com
+  region: na
+  country: US
+  keywords:
+  - coinbase
+- name: 5 dogs Fortitude Valley
+  url: http://www.5dogs.com.au/
+  img: 5dogsfv.png
+  twitter: 5DogsFV
+  facebook: 5dogsaustralia
+  bch: true
+  othercrypto: true
+  btc: true
+  doc: https://twitter.com/CryptoStratz/status/995974679046250496
+- name: a3farms
+  url: https://a3farms.com
+  img: a3farms.png
+  bch: true
+  btc: true
+  othercrypto: false
+  facebook: a3farms
+  email_address: jim@a3farms.com
+  region: na
+  country: US
+  city: North Central Florida
+- name: AiryTea
+  url: https://www.airytea.com/
+  img: airytea.png
+  twitter: airytea
+  facebook: AiryTea
+  bch: false
+  btc: true
+  othercrypto: true
+  keywords:
+  - gocoin
+- name: Alpha Dog Food
+  url: https://alphadogfood.com/
+  img: alphadogfood.png
+  twitter: Alphadogfoodco
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Arrowhead Beef
+  url: https://arrowheadbeef.com/
+  img: arrowheadbeef.png
+  facebook: ArrowheadBeef
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Bacon's Heir
+  url: https://baconsheir.com/
+  img: baconsheir.png
+  facebook: PorkClouds
+  twitter: BaconsHeir
+  btc: false
+  bch: false
+  othercrypto: false
+  exceptions:
+    text: Used to accept Bitcoin but was disabled after Coinbase Merchant Tools were
+      discontinued. Last checked May 5th, 2018
+- name: Bar Foxx
+  url: http://barfoxx.com
+  img: barfoxx.png
+  facebook: BarFoxx
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Batch Brew
+  url: https://www.batchbrew.co.uk/
+  img: batchbrew.png
+  twitter: BatchBrew
+  facebook: BatchBrew
+  region: eu
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coingate
+- name: Beautiful Taiwan Tea Company
+  url: https://beautifultaiwantea.com/
+  img: beautifultaiwantea.png
+  facebook: BeautifulTaiwanTea
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: BEBI Vodka
+  url: https://www.bebivodka.com/
+  twitter: vegasbebi
+  img: bebivodka.png
+  country: US
+  state: Nevada
+  city: Las Vegas
+  bch: true
+  btc: false
+  othercrypto: true
+- name: Bees Brothers
+  url: http://beesbros.com
+  img: beesbrothers.png
+  facebook: beesbros
+  email_address: beesbrothers@gmail.com
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Berkshire Grain
+  url: https://www.berkshiregrain.com/
+  img: berkshiregrain.png
+  facebook: berkshiregrain
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Bier Kaufen
+  url: https://www.bier-kaufen.de/
+  img: bierkaufen.png
+  email_address: shop@bier-kaufen.de
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.bier-kaufen.de/de/zahlung/
+  lang: de
+  keywords:
+  - bitpay
+  - bip70
+- name: Bit Soul Kitchen
+  url: https://bit-soul-kitchen.org
+  img: bitsoul_kitchen.png
+  twitter: BitSoulKitchen
+  facebook: BitcoinSoulKitchen
+  email_address: info@bit-soul-kitchen.org
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://bitcointalk.org/index.php?topic=4406105.0
+- name: Black Ink Coffee Company
+  url: https://blackinkcoffee.com
+  img: BlackInkCoffeeCompany.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: bicoffeecompany
+  facebook: blackinkcoffeecompany
+  email_address: info@blackinkcoffee.com
+  doc: https://commerce.coinbase.com/charges/3JG3MQDP
+- name: Blaze Gourmet
+  url: https://www.blazegourmet.com/
+  img: blazegourmet.png
+  facebook: blazegourmet
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Blockchainbottle
+  url: https://www.blockchainbottle.net
+  img: Blockchainbottle.png
+  facebook: Blockchainbottle
+  email_address: info@blockchainbottle.net
+  region: na
+  country: US
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.reddit.com/r/CryptoCurrency/comments/8nsipq/started_an_online_crypto_only_liquor_store_after/
+- name: Blue Apron
+  url: https://www.blueapron.com/
+  img: blueapron.png
+  twitter: blueapron
+  facebook: blueapron
+  bch: false
+  btc: false
+  othercrypto: false
+- name: Classic Crust Pizza
+  url: https://classiccrustpizza.com/
+  img: classiccrustpizza.png
+  facebook: ClassicCrustPizza
+  twitter: ClassicCrustAZ
+  region: na
+  country: US
+  state: Arizona
+  city: Phoenix
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Coffee4Crypto
+  url: http://www.coffee4crypto.com/
+  img: coffee4crypto.png
+  twitter: coffee4crypto
+  bch: true
+  btc: true
+  othercrypto: true
+  region: na
+  country: US
+  keywords:
+  - coinpayments.net
+- name: CORSO
+  url: https://www.facebook.com/caffebarcorsorasinja/
+  bch: true
+  btc: true
+  othercrypto: true
+  email_address: ultrarik123@gmail.com
+  region: eu
+  country: HR
+  doc: https://www.facebook.com/groups/334085863723507/permalink/642110256254398/
+  exceptions:
+    text: "Use Bitcoin.com or Elipay wallet"
+- name: David Wolfe Shop
+  url: https://shop.davidwolfe.com/
+  img: DavidWolfeShop.png
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+- name: De Wine Spot
+  url: https://dewinespot.co/
+  img: dewinespot.png
+  facebook: dewinespotbrooklyn
+  twitter: DeWineSpotNY
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Death By Coffee
+  url: http://www.deathbycoffee.net/
+  img: deathbycoffee.png
+  twitter: DeathbyCoffeeSA
+  region: af
+  country: ZA
+  state: Eastern Cape
+  city: Port Elizabeth
+  bch: true
+  btc: false
+  othercrypto: false
+- name: DoorDash
+  url: https://www.doordash.com
+  img: doordash.png
+  bch: false
+  twitter: doordash
+- name: Dunkin' Donuts
+  url: https://www.dunkindonuts.com
+  img: dunkin.png
+  twitter: DunkinDonuts
+  bch: false
+  btc: false
+  othercrypto: false
+- name: Figures
+  url: https://www.figuresto.com/
+  img: figures.png
+  email_address: info@figuresto.com
+  twitter: figurestoronto
+  facebook: figurestoronto
+  region: na
+  country: CA
+  city: Toronto
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.reddit.com/r/btc/comments/9hlsio/figures_restaurant_toronto_accepts_bitcoin_cash_i/
+- name: Flavours Place
+  url: https://www.flavoursplace.com/
+  img: FlavoursPlace.png
+  twitter: FlavoursPlace
+  facebook: FlavoursPlace
+  bch: false
+  btc: true
+  othercrypto: false
+- name: Friedel Richter
+  url: https://www.friedelrichter.de/
+  img: friedelrichter.png
+  facebook: friedelrichterrestaurant
+  region: eu
+  country: DE
+  city: Berlin
+  bch: true
+  btc: true
+  othercrypto: false
+- name: FYM Hot Sauce
+  url: https://fymhotsauce.rocks/
+  img: fymhotsauce.png
+  twitter: fymhotsauce
+  facebook: fymhotsauce
+  email_address: dane@fymhotsauce.com
+  bch: true
+  btc: false
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Hawaiian Kombucha
+  url: https://www.hawaiiankombucha.jp
+  img: HawaiianKombucha.png
+  bch: true
+  btc: false
+  othercrypto: false
+  facebook: hawaiiankombucha
+  email_address: info@hawaiiankombucha.jp
+  region: as
+  country: JP
+  city: Kobe
+- name: Heat Hot Sauce Shop
+  url: https://heathotsauce.com/
+  img: heathotsauce.png
+  twitter: heathotsauce
+  facebook: HeatHotSauceShop
+  bch: false
+  btc: false
+  othercrypto: false
+  exceptions:
+    text: Heat Hot Sauce Shop used to accept BTC & BCH, but as of 2019-05-06 stopped accepting it
+- name: Heirloom & Perennial
+  url: https://www.foodforests.eu/
+  img: heirloomperennial.png
+  twitter: FoodForestation
+  facebook: FoodForestsEurope
+  region: eu
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Herbal Infusions
+  url: https://herbalinfusions.ca/
+  img: herbalinfusions.png
+  twitter: herbalinfusions
+  facebook: herbalinfusions
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Himalayan People
+  url: https://himalayanpeople.com/
+  img: himalayanpeople.png
+  twitter: himpeeps
+  facebook: himalayanpeople
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Huel
+  url: https://huel.com
+  img: huel.png
+  twitter: gethuel
+  facebook: huel
+  bch: false
+  btc: false
+  othercrypto: false
+  exceptions:
+    text: Huel used to accept BTC & BCH, but as of 2018-08-03 stopped accepting it
+- name: Hungry.dk
+  url: https://www.hungry.dk/
+  twitter: Hungrydk
+  img: hungrydk.png
+  region: eu
+  country: DK
+  lang: da
+  bch: true
+  btc: true
+  othercrypto: true
+- name: KaffeBox
+  url: https://www.kaffebox.no
+  img: KaffeBox.png
+  twitter: KaffeBox
+  facebook: KaffeBox
+  email_address: post@kaffebox.no
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Ketolent
+  url: https://ketolent.com/
+  img: Ketolent.png
+  twitter: eatketolent
+  facebook: eatketolent
+  bch: true
+  btc: true
+  othercrypto: false
+- name: La Confiturière
+  url: https://laconfituriere.com/
+  img: LaConfiturire.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: laconfituriere
+  facebook: laconfituriere
+  email_address: contact@laconfituriere.com
+  region: eu
+- name: Lieferando
+  url: https://www.lieferando.de/
+  img: lieferando.png
+  twitter: lieferando
+  facebook: lieferando
+  email_address: info@lieferando.de
+  region: eu
+  country: DE
+  lang: de
+  bch: true
+  btc: true
+  othercrypto: false
+- name: lieferando.at
+  url: https://www.lieferando.at/
+  img: lieferando.png
+  twitter: lieferandoAT
+  region: eu
+  country: AT
+  lang: de
+  bch: true
+  btc: true
+  othercrypto: false
+- name: MAMACHA
+  url: https://mamacha.nyc/
+  img: MAMACHA.png
+  bch: true
+  btc: true
+  othercrypto: false
+  email_address: hello@mamacha.nyc
+  region: na
+  country: US
+  city: New York City
+  exceptions:
+    text: They provide a QR code using a mobile app.
+- name: Mamas Banh - Vietnamese Culinary Diversity
+  url: http://mamasbanh.com/
+  img: mamasbanh.png
+  email_address: daiquy@mamasbanh.com
+  region: eu
+  city: Berlin
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Mason Bar
+  url: http://t.dianping.com/deal/20656559
+  img: masonbar.png
+  region: as
+  country: CN
+  city: Beijing
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://twitter.com/nishantsharma87/status/958396424269385729
+  exceptions:
+    text: Remember to ask the bartender the price of the drink in BCH before paying.
+      The bar uses an exchange rate that may be different from the one that you use.
+- name: Menufy
+  url: https://www.menufy.com
+  img: menufy.png
+  facebook: menufy
+  twitter: menufy
+  email_address: info@menufy.com
+  region: na
+  country: US
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.menufy.com/bitcoin-cash
+  keywords:
+  - bitpay
+  - bip70
+- name: Morello International
+  url: https://www.morelloint.com
+  img: morelloIntl.png
+  email_address: framore@morelloint.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: New Mexico Tea Company
+  url: https://www.nmteaco.com/
+  img: nmtc.png
+  twitter: NMTEACO
+  facebook: newmexicoteacompany
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Nonno Angelo
+  url: http://www.nonnoangelo.co.il/
+  img: NonnoAngeloPizza.png
+  email_address: nonnoangelo147@gmail.com
+  facebook: nonnoangelopizza
+  region: as
+  city: Tel Aviv
+  country: IL
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://twitter.com/torusJKL/status/998981543984029696
+- name: Osaru Coffee
+  url: https://osarucoffee.thebase.in
+  img: osarucoffee.png
+  twitter: osarucoffee
+  facebook: osarucoffee
+  email_address: osarucoffee@gmail.com
+  region: as
+  country: JP
+  lang: ja
+  city: Osaka
+  bch: true
+  btc: false
+  othercrypto: false
+  doc: https://morizocoin.com/bchpayment_osarucoffee/
+- name: Pex Peppers
+  url: https://www.pexpeppers.com/
+  img: pexpeppers.png
+  twitter: pexpeppers
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Pirat Piran
+  url: https://www.facebook.com/PiratPiran
+  region: eu
+  country: SI
+  city: Piran
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.reddit.com/r/btc/comments/8ix40r/i_convinced_a_friend_that_owns_a_restaurant_to/
+- name: Pyszne.pl
+  url: https://pyszne.pl
+  img: pysznepl.png
+  twitter: pysznepl
+  region: eu
+  country: PL
+  lang: pl
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Renjer Wild Jerky
+  url: https://www.renjer.ky
+  img: renjer.png
+  twitter: renjerjerky
+  facebook: renjer.ky
+  email_address: renjer@renjer.ky
+  region: eu
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.reddit.com/r/Bitcoincash/comments/7r8l4s/our_company_producing_wild_jerky_out_of_reindeer/
+- name: Rogers Made
+  url: https://rogersmade.com/
+  img: RogersMade.png
+  twitter: RogersMade
+  facebook: rogersmade
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Rowan's Royale Organic Coffee
+  url: https://www.rowansroyale.com
+  img: RowansRoyaleOrganicCoffee.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: organicbluemtn
+  facebook: organicbluemtn
+  email_address: admin@rowansroyale.com
+  doc: http://www.rowansroyale.com/2019/04/now-accepting-crypto-currency/
+- name: Salts Worldwide
+  url: https://saltsworldwide.com
+  img: SaltsWorldwide.png
+  twitter: SaltsWorldwide
+  facebook: saltsworldwide
+  bch: true
+  btc: true
+  othercrypto: true
+- name: San Marco Coffee
+  url: https://www.sanmarcocoffee.com/
+  img: sanmarcocoffee.png
+  twitter: sanmarcocoffee
+  facebook: SanMarcoCoffee
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - gocoin
+- name: Sarah's Coffee
+  url: http://www.sarahscoffee.com
+  img: sarahscoffee.png
+  twitter: coffeeandcare
+  facebook: coffeeandcare
+  email_address: sales@sarahscoffee.com
+  country: GB
+  bch: true
+  btc: false
+  othercrypto: false
+- name: Shuttle Delivery
+  url: https://www.shuttledelivery.co.kr/
+  img: shuttledelivery.png
+  facebook: ShuttleDeliveryCo
+  twitter: ShuttleDelivery
+  email_address: info@shuttledelivery.co.kr
+  region: as
+  country: KR
+  city: Seoul
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Sonoran Spice
+  url: https://www.sonoranspice.com/
+  img: sonoranspice.png
+  twitter: sonoranspiceco
+  facebook: SonoranSpice
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Starbucks
+  url: https://www.starbucks.com/
+  img: starbucks.png
+  bch: false
+  btc: false
+  othercrypto: false
+  twitter: Starbucks
+  facebook: Starbucks
+- name: Sutton Honey
+  url: http://suttonhoney.com
+  img: SuttonHoney.png
+  region: na
+  country: CA
+  city: Sutton
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Taco Bell
+  url: https://www.tacobell.com
+  img: tacobell.png
+  bch: false
+  btc: false
+  othercrypto: false
+  twitter: tacobell
+  facebook: tacobell
+- name: Takeaway.com
+  url: https://www.takeaway.com
+  img: takeaway.png
+  twitter: takeaway
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Teanobi
+  url: http://www.teanobi.com/
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Teasenz
+  url: https://www.teasenz.com
+  img: teasenz.png
+  twitter: teasenz
+  facebook: Teasenz
+  bch: true
+  btc: true
+  othercrypto: false
+- name: The Dog is Hot
+  url: http://thedogishot.com/
+  img: thedogishot.png
+  twitter: thedogishot
+  facebook: thedogishot
+  region: eu
+  country: es
+  city: Barcelona
+  bch: true
+- name: Thuisbezorgd.nl
+  url: https://www.thuisbezorgd.nl
+  img: Thuisbezorgd.png
+  twitter: thuisbezorgd
+  facebook: thuisbezorgd
+  region: eu
+  country: NL
+  lang: nl
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.thuisbezorgd.nl/en/customerservice-consumer-topic-payment?fid=371#cs_item_371
+- name: TONG!
+  url: https://tongjerky.com
+  img: TongJerky.png
+  twitter: TongJerky
+  facebook: TongJerky
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Umami Snack Import
+  url: https://www.umamisnack.ch/
+  img: umamisnack.png
+  twitter: umamisnack
+  region: eu
+  lang: de
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://twitter.com/umamisnack/status/992325968437104641
+- name: Uproot
+  url: https://www.drinkuproot.com/
+  img: uproot.png
+  facebook: drinkuproot
+  twitter: DrinkUproot
+  region: na
+  country: US
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Wei of Chocolate
+  url: https://weiofchocolate.com/
+  img: WeiChocolate.png
+  twitter: WeiChocolate
+  facebook: weichocolate
+  region: na
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Xpresso
+  url: https://www.xpressoutah.com
+  img: XpressOutah.png
+  twitter: XpressOutah
+  facebook: xpressoutah
+  region: na
+  country: US
+  state: Utah
+  city: Salt Lake City
+  bch: true
+  btc: true
+  othercrypto: true

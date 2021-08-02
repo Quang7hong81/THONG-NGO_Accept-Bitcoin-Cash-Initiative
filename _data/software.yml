@@ -1,0 +1,118 @@
+---
+websites:
+- name: Bandicam
+  url: https://www.bandicam.com/
+  img: bandicam.png
+  twitter: bandicam
+  facebook: bandicam
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Binary Fortress Software
+  url: https://www.binaryfortress.com/
+  img: binaryfortress.png
+  twitter: BinaryFortress
+  facebook: BinaryFortress
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Code Sector
+  url: https://codesector.com/
+  img: codesector.png
+  twitter: codesector
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinpayments.net
+- name: Daemon Tools
+  url: https://www.daemon-tools.cc/
+  img: daemontools.png
+  twitter: daemon_tools_cc
+  facebook: daemontools
+  bch: true
+  bsv: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinify
+- name: Email Marketing Software Ninja
+  url: https://ems.ninja/
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - gourl
+- name: Heated Sneaks
+  url: https://www.heatedsneaks.com/
+  img: heatedsneaks.png
+  twitter: HS__Success
+  email_address: heatedsneaks@gmail.com
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Internet Download Manager
+  url: http://www.internetdownloadmanager.com/
+  img: idm.png
+  email_address: info@tonec.com
+  bch: true
+  bsv: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinify
+- name: pcTattletale
+  url: https://www.pctattletale.com/
+  img: pctattletale.png
+  twitter: pctattle
+  facebook: pctattletalesw
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.pctattletale.com/blog/2961/buy-with-bitcoin/
+  keywords:
+  - bitpay
+  - bip70
+- name: RealityRipple Software
+  url: https://realityripple.com
+  img: realityripple.png
+  email_address: webmaster@RealityRipple.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: RedFox
+  url: https://www.redfox.bz/
+  img: redfox.png
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.redfox.bz/bitcoin.html
+- name: WP-GPL
+  url: https://wp-gpl.org
+  bch: true
+  btc: false
+  othercrypto: true
+  email_address: jack@wp-gpl.org
+  exceptions:
+    text: 'Note: GPL software can usually be obtained for free.'
+- name: XSplit
+  url: https://www.xsplit.com/
+  img: xsplit.png
+  twitter: xsplit
+  facebook: XSplit
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - xsolla
+  - bitpay
+  - bip70
