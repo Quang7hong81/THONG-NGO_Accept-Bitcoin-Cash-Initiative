@@ -1,0 +1,23 @@
+---
+websites:
+- name: Bitcoin Suisse
+  url: https://www.bitcoinsuisse.ch/
+  img: BitcoinSuisse.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: bitcoinsuisseag
+  facebook: bitcoinsuisse
+  email_address: inquiry@bitcoinsuisse.ch
+  country: CH
+  doc: https://onlinetrading.bitcoinsuisse.ch/en/faq#faq-100
+- name: Hranilnica Lon Bank
+  region: eu
+  country: si
+  url: https://www.lon.si
+  twitter: LONslovenija
+  img: lon.png
+  bch: false
+  btc: true
+  othercrypto: false
+  doc: http://svetkapitala.delo.si/inovacije/bitcoin-na-koncu-prstov-3467?meta_refresh=true
