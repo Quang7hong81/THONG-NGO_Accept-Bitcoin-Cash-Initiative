@@ -1,0 +1,85 @@
+---
+layout: 'json'
+show_generated_date: false
+---
+{%- assign page_count = 0 -%}
+{%- assign section_count = 0 -%}
+{%- assign total = 0 -%}
+{%- assign bch = 0 -%}
+{%- assign only_bch = 0 -%}
+{%- assign btc = 0 -%}
+{%- assign cobra = 0 -%}
+{%- assign other_crypto = 0 -%}
+{%- assign any_crypto = 0 -%}
+{%- assign pages = site.data.sections | group_by:"page" | sort:"name" -%}
+{%- assign sortedPages = pages | reverse -%}
+{%- assign page_count = sortedPages | size -%} 
+{% for tracked_page in sortedPages %} 
+	"{{ tracked_page.name | capitalize }}": { 
+	{%- assign count_total = 0 -%}
+	{%- assign count_bch = 0 -%}
+	{%- assign count_only_bch = 0 -%}
+	{%- assign count_btc = 0 -%}
+	{%- assign count_cobra = 0 -%}
+	{%- assign count_other_crypto = 0 -%}
+	{%- assign count_sections = tracked_page.items | size -%}
+	{%- assign count_any_crypto = 0 -%} 
+	{%- for section in tracked_page.items -%}
+		{%- assign section_file = site.data[section.id] -%}
+		{%- assign section_listings = section_file.websites | size -%}
+		{%- assign count_total = count_total | plus: section_listings -%}
+		{%- for website in section_file.websites -%}
+			{%- if website.bch or website.btc or website.othercrypto or website.bsv -%}
+				{%- assign count_any_crypto = count_any_crypto | plus: '1' -%}
+				{%- if website.bch -%}
+					{%- assign count_bch = count_bch | plus: '1' -%}
+					{%- unless website.btc or website.othercrypto or website.bsv -%}
+						{%- assign count_only_bch = count_only_bch | plus: '1' -%}
+					{% endunless %}
+				{%- endif -%}
+				{%- if website.btc -%}
+					{%- assign count_btc = count_btc | plus: '1' -%}
+					{%- if website.bch -%}
+						{%- assign count_cobra = count_cobra | plus: '1' -%}
+					{%- endif -%}
+				{%- endif -%}
+				{%- if website.othercrypto or website.bsv -%}
+					{%- assign count_other_crypto = count_other_crypto | plus: '1' -%}
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor -%}
+	{% endfor %}
+		"accepts": {
+			"BCH": {{ count_bch }},
+			"BCH_only": {{ count_only_bch }},
+			"BTC": {{ count_btc }},
+			"BTC_BCH": {{ count_cobra }},
+			"Altcoins": {{ count_other_crypto }},
+			"Crypto": {{ count_any_crypto }}
+		},
+		"sites_tracked": {{ count_total }},
+		"sections": {{ count_sections }}
+	},
+	{%- assign bch = bch | plus: count_bch -%}
+	{%- assign only_bch = only_bch | plus: count_only_bch -%}
+	{%- assign btc = btc | plus: count_btc -%}
+	{%- assign cobra = cobra | plus: count_cobra -%}
+	{%- assign other_crypto = other_crypto | plus: count_other_crypto -%}
+	{%- assign total = total | plus: count_total -%}
+	{%- assign any_crypto = any_crypto | plus: count_any_crypto -%}
+	{%- assign section_count = section_count | plus: count_sections -%}
+{% endfor %}
+	"Site": {
+		"accepts": {
+			"BCH": {{ bch }},
+			"BCH_only": {{ only_bch }},
+			"BTC": {{ btc }},
+			"BTC_BCH": {{ cobra }},
+			"Altcoins": {{ other_crypto }},
+			"Crypto": {{ any_crypto }}
+		},
+		"sites_tracked": {{ total }},
+		"sections": {{ section_count }},
+		"pages_of_listings": {{ page_count }},
+		"generated": "{{ site.time }}"
+	}

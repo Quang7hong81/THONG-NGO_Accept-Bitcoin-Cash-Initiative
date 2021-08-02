@@ -1,0 +1,33 @@
+<div class="ui basic modal assets">
+
+	<div class="ui large icon header">
+		<i class="image icon"></i>
+		Image Assets
+	</div>
+
+	<div class="asset-intro">
+		<p>Here you'll find some suggested images that you can use, or feel free to create your own, as <em>Bitcoin Cash is decentralized</em>. We would only encourage you to primarily use the standard logo, which is designated by its 'cash bill sides' and upwards facing <i class="btc icon"></i><i class="arrow right icon"></i> <img class="p-logo" src="{{ page.encoded_img_placeholder }}" data-src="/img/coin-bch-sm.png" alt="Bitcoin Cash"> Orange is the preferred color of use.</p>
+		<p>Below is a collection of images that you may use. Many different high quality formats are provided. The images below were sourced from the artwork collections also found on this website.</p>
+	</div>
+
+	<div class="image content">
+		<div class="assets">
+			{% for asset in site.data.assets.images | where: "page", "assets-modal" %}
+            <a href="{{ asset.url }}" target="_blank">
+			  <noscript>
+                <img src="/img/{{ asset.img }}" class="image" alt="{{ asset.name }}">
+              </noscript>
+              <img class="image" src="{{ page.encoded_img_placeholder }}" data-src="/img/{{ asset.img }}" alt="{{ asset.name }}">
+            </a>
+			{%- endfor -%}
+		</div>
+	</div>
+
+	<div class="actions">
+		<div class="ui red basic cancel inverted button">
+			<i class="remove icon"></i>
+			Close
+		</div>
+	</div>
+
+</div>
