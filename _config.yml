@@ -1,0 +1,71 @@
+permalink: pretty
+markdown: kramdown
+theme: null
+
+title: The Accept Bitcoin Cash Initiative
+author: n9jd34x04l151ho4 + topolino + kenman345
+description:
+    Community-curated list of sites/merchants that accept Bitcoin Cash.
+url: https://AcceptBitcoin.Cash
+twitter_url: https://usebitcoin.cash
+repo: https://github.com/acceptbitcoincash/acceptbitcoincash
+img: img/logo.png
+google_analytics: UA-107218359-1
+lang: en-US
+SSLProvider: http://ocsp.digicert.com
+twitter:
+  username: useBitcoinCash
+sass:
+    sass_dir: _includes/_sass
+    style: compressed
+plugins:
+  - jekyll-minifier
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: "*.html" # an empty string here means all files in the project
+    values:
+      # Page Variables
+      image: img/logo.png
+      link_tweet: "Tweet to @TWITTERHANDLE"
+      link_facebook: "Write on @FACEBOOKHANDLE's wall"
+      email_subject: "Please%20consider%20accepting%20Bitcoin%20Cash%20payments"
+      rtfm: "Read support docs from"
+      link_mobile: "TWEET THEM"
+      workonit_tweet: "Please consider accepting #BitcoinCash for payments @TWITTERHANDLE - it’s \"Peer-to-Peer Electronic Cash\" that is fast, reliable, and secure, with low fees. More @"
+      link_progress: "Thank them for accepting Bitcoin Cash"
+      link_progress_mobile: "THANK THEM"
+      progress_tweet: "Thanks for accepting Bitcoin Cash, @TWITTERHANDLE!"
+      hash: "acceptBitcoinCash, BCHforEveryone"
+      has_search: yes
+      has_nav: yes
+      has_ticker: yes
+      list_of: "merchant"
+      encoded_img_placeholder: "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+      img_placeholder: "/img/placeholder.png"
+
+exclude:
+    - CNAME
+    - CONTRIBUTING.md
+    - EXCLUSION.md
+    - Gemfile
+    - LICENSE
+    - README.md
+    - Rakefile
+    - verify.rb
+    - vendor
+    - kube
+    - nginx.conf
+    - scripts
+    - Dockerfile
+    - sections_schema.yml
+    - websites_schema.yml
+
+jekyll-minifier:
+  compress_javascript: true         # Default: true
+  exclude: # Keeping these files sexy guys
+  - 'robots.txt'
+  - 'sitemap.xml'
