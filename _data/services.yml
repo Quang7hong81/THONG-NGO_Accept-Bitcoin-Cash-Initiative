@@ -1,0 +1,600 @@
+---
+websites:
+- name: AdoramaPix
+  url: https://www.adoramapix.com
+  img: adoramapix.png
+  bch: false
+  twitter: AdoramaPix
+  facebook: AdoramaPix
+- name: Asset Maintenance OU
+  url: https://www.assetmaintenance.ee
+  img: assetMaintenance.png
+  facebook: Asset-Maintenance-1267265646673586
+  region: eu
+  country: EE
+  city: Tallinn
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Audioventa Maria Ysabel
+  url: https://audioventa.wixsite.com/mariaysabel
+  img: AudioventaMariaYsabel.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: audioventaca
+  facebook: audioventaca
+  email_address: audioventa.ca@gmail.com
+- name: Avnet
+  url: https://www.avnet.com/
+  img: avnet.png
+  twitter: Avnet
+  facebook: AvnetInc
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://news.avnet.com/press-release/avnet/avnet-leads-industry-accepting-cryptocurrency
+  keywords:
+  - bitpay
+  - bip70
+- name: Bitcoin MXN
+  url: http://bitcoinmxn.com/
+  img: bitcoinmxn.png
+  twitter: mxn_bitcoin
+  facebook: bitcoinmxnoficial
+  email_address: admin@bitcoinmxn.com
+  lang: es
+  bch: true
+  btc: true
+  othercrypto: true
+  exceptions:
+    text: Use the contact form when requesting a press release or other service.
+- name: Canine Solutions
+  url: http://www.robsdogwalking.com
+  email_address: reiding@comcast.net
+  region: na
+  country: US
+  city: Tallahassee
+  state: Florida
+  bch: true
+  btc: false
+  othercrypto: true
+- name: Contract for Crypto
+  url: https://www.contractforcrypto.com/
+  bch: true
+  btc: true
+  othercrypto: true
+  email_address: mreynoldsaurora@gmail.com
+  region: na
+  country: CA
+  city: Southern Ontario
+  exceptions:
+    text: Depending on agreement of payment timeline for giving project
+- name: COOL Networks
+  url: http://cool.net.au
+  img: coolnetworks.png
+  twitter: coolnetau
+  facebook: CoolNetworks
+  region: oc
+  country: AU
+  city: Adelaide
+  bch: true
+  btc: true
+  othercrypto: true
+  exceptions:
+    text: Ask the guy if he takes crypto
+- name: Crypto Accountant
+  url: http://www.cryptoaccountant.pro/
+  twitter: CryptoAcco
+  email_address: info@portmarineaccountancy.com
+  bch: true
+  btc: true
+  othercrypto: true
+  region: eu
+  country: GB
+- name: Denison Yacht Sales
+  url: https://www.denisonyachtsales.com/
+  img: denisonyachtsales.png
+  facebook: DenisonYachting
+  bch: true
+  btc: true
+  othercrypto: false
+  doc: https://www.denisonyachtsales.com/denison-yacht-sales-now-accepting-bitcoin/
+  keywords:
+  - bitpay
+  - bip70
+- name: DigitalKeys.biz
+  url: http://digitalkeys.biz/
+  img: digitalkeysbiz.png
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinify
+  - webmoney
+- name: disRupt Ávila
+  url: http://disruptavila.com
+  img: disruptavila.png
+  twitter: disruptavila
+  facebook: disruptavila
+  email_address: info@disruptavila.com
+  region: eu
+  country: ES
+  city: Ávila
+  bch: true
+  btc: true
+  othercrypto: true
+- name: DotComWriters
+  url: http://dotcomwriters.com
+  img: dotcomwriters.png
+  twitter: dotcomwriters
+  email_address: admin@dotcomwriters.com
+  bch: true
+  btc: true
+  othercrypto: true
+  exceptions:
+    text: User must contact the admin to make a custom request. This may be done through
+      the contact form.
+- name: Dynamic Enterprise Services Inc
+  url: https://desram.com
+  img: DynamicEnterpriseServicesInc.png
+  bch: true
+  btc: true
+  othercrypto: false
+  facebook: DESRAM.Inc
+  email_address: sturgeon@desram.com
+  region: na
+- name: Dyrdahl Lumber
+  url: https://dyrdahl-lumber.com
+  img: DyrdahlLumber.png
+  twitter: DyrdahlLumber
+  facebook: dyrdahllumber
+  email_address: kevintores1992@gmail.com
+  region: na
+  country: US
+  state: Minnesota
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.facebook.com/dyrdahllumber/photos/a.929204377258037.1073741829.266220780223070/929203443924797/?type=3&theater
+  exceptions:
+    text: Contact us at https://www.dyrdahl-lumber.com/contact
+- name: Fleur Maison Middlesbrough
+  url: https://www.fleurmaison.co.uk/
+  img: fleurmaisonmidd.png
+  facebook: FleurMaisonMiddlesbrough
+  bch: true
+  btc: true
+  othercrypto: true
+  region: eu
+  country: GB
+  keywords:
+  - coingate
+- name: Freelance for Coins
+  url: https://freelanceforcoins.com/
+  img: freelanceforcoi.png
+  email_address: hello@freelanceforcoins.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: G-Nome Computers
+  url: https://www.g-nome.co.za/
+  img: gnome.png
+  email_address: info@g-nome.co.za
+  region: af
+  country: ZA
+  city: Johannesburg
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.g-nome.co.za/
+- name: Gana Control
+  url: https://ganacontrol.com/
+  img: ganacontrol.png
+  email_address: contact@ganacontrol.com
+  twitter: ganacontrol
+  bch: true
+  btc: true
+  othercrypto: false
+- name: Genuine COA
+  url: https://www.genuinecoa.com/
+  img: genuinecoa.png
+  twitter: GenuineCOA
+  facebook: GenuineCOA
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Gutes Leben Ltd
+  url: https://guteshome.com/
+  img: guteslebenltd.png
+  twitter: guteslebenltd
+  email_address: gutesleben@consultant.com
+  region: af
+  country: GH
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Hotfilepremiumstore
+  url: https://www.hotfilepremiumstore.com/
+  img: hotfilepremium.png
+  twitter: Hotfilepremiums
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+  - webmoney
+- name: IFX SOLUTIONS
+  url: http://ifxsolutions.com.ar
+  img: IFXSOLUTIONS.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: ifxsolutionsarg
+  facebook: ifxsolutions
+  email_address: info.ifxsolutions@gmail.com
+  region: sa
+  country: AR
+  city: Buenos Aires
+- name: InstaSmarter
+  url: http://www.instasmarter.com/
+  img: InstaSmarter.png
+  twitter: InstaSmarter
+  email_address: Service@InstaSmarter.com
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Iru Doramas Translation
+  url: http://www.irudoramas.com
+  img: irudoramas.png
+  bch: true
+  btc: true
+  othercrypto: true
+- name: IT Rockstars Ltd
+  url: https://www.itrockstars.net
+  img: ITRockstarsLtd.png
+  bch: true
+  btc: false
+  othercrypto: true
+  twitter: itrockstarsuk
+  facebook: itrockstarsuk
+  email_address: support@itrockstars.co.uk
+  region: na
+  exceptions:
+    text: Please email support@itrockstars.co.uk for bitcoin and crypto purchases
+- name: Junkfree®
+  url: https://www.junkfree.com
+  img: Junkfree.png
+  bch: true
+  btc: false
+  othercrypto: false
+  email_address: david@junkfree.com
+  region: na
+  country: US
+  doc: https://junkfree.com/bitcoinabc-3/
+- name: KeyInstant.com
+  url: https://keyinstant.com/
+  img: keyinstantcom.png
+  twitter: keyinstant
+  facebook: keyinstant
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - bitpay
+  - coingate
+  - webmoney
+- name: KNW refrigeration
+  url: http://www.knw-refrigeration.co.za
+  img: knwRefrigeration.png
+  email_address: info@knw-refrigeration.co.za
+  region: af
+  country: ZA
+  city: Cape Town
+  bch: true
+  btc: true
+  othercrypto: false
+- name: LagaiPhone
+  url: https://lagaiphone.se/
+  img: lagaiphone.png
+  twitter: Lagaiphone
+  facebook: lagaiphone.se
+  email_address: info@lagaiphone.se
+  region: eu
+  country: SE
+  lang: sv
+  bch: true
+  btc: true
+  othercrypto: true
+  exceptions:
+    text: Ask for payment in Bitcoin Cash in store or by e-mail.
+- name: Lingo.cash
+  url: https://www.lingo.cash/
+  img: Lingocash.png
+  bch: true
+  btc: false
+  othercrypto: false
+  facebook: lingocash1
+  email_address: translations@lingo.cash
+- name: Locks Keys and More
+  url: https://lockskeysandmore.com
+  img: lockskeysmore.png
+  facebook: lockskeysandmore
+  email_address: lockskeysandmore@gmail.com
+  region: na
+  country: US
+  city: El Paso, Texas
+  bch: true
+  btc: true
+  othercrypto: true
+- name: MarketingPont.com
+  url: https://marketingpont.com/
+  img: marketingpont.png
+  twitter: marketingpont
+  facebook: marketingpont
+  email_address: info@marketingpont.com
+  lang: es
+  bch: true
+  btc: true
+  othercrypto: true
+- name: medical valuations
+  url: https://medicalvaluations.com
+  img: medicalValuations.png
+  region: na
+  country: US
+  city: Scottsdale
+  twitter: medicalval
+  facebook: MVincRoss
+  bch: true
+  btc: true
+- name: Michel Fortin
+  url: https://michelf.ca/
+  img: michelf.png
+  twitter: michel_fortin
+  bch: true
+  bsv: false
+  btc: false
+  othercrypto: false
+  keywords:
+  - mac
+  - macOS 
+  - translation
+  - screen
+  - colors
+  - xliff
+- name: Muse
+  url: https://muse.markraybin.com
+  img: muse.png
+  bch: true
+  btc: true
+  othercrypto: 
+- name: MyMillennialGuide.com
+  url: https://www.mymillennialguide.com/
+  img: mymillennialguide.png
+  twitter: themillennialmg
+  facebook: mymillennialguide
+  email_address: brian@mymillennialguide.com
+  bch: false
+  btc: false
+  othercrypto: false
+- name: Nogtrend Assistants
+  url: https://www.nogtrend.com/
+  img: nogtrend.png
+  twitter: nogtrend
+  facebook: NogtrendAssistants
+  email_address: info@nogtrend.com
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: OOSEOO Internetmarketing
+  url: https://www.ooseoo.com/
+  img: ooseoo.png
+  twitter: OOSEOO
+  facebook: OOSEOO
+  email_address: info@ooseoo.com
+  region: eu
+  country: NL
+  lang: nl
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Parts Oven
+  url: https://partsoven.com
+  img: PartsOven.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: partsoven
+  region: na
+  country: US
+- name: PekTech
+  url: https://pek.tech
+  img: pektech.png
+  twitter: pek_tech
+  email_address: contact@pek.tech
+  region: na
+  bch: true
+  btc: false
+  othercrypto: true
+  doc: https://twitter.com/pek_tech/status/962967524605231104
+- name: Port Marine Accountancy
+  url: http://www.portmarineaccountancy.com/bitcoin
+  img: portmarine.png
+  twitter: PortMarineAccy
+  email_address: info@portmarineaccountancy.com
+  bch: true
+  btc: true
+  othercrypto: true
+  region: eu
+  country: GB
+- name: Prospero Media
+  url: https://www.prosperomedia.co/
+  img: prosperomedia.png
+  facebook: GetProspero
+  country: us
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Queo.io
+  url: https://queo.io
+  img: Queoio.png
+  bch: true
+  btc: true
+  othercrypto: true
+  twitter: queo_io
+  email_address: arnaud@queo.io
+  doc: https://twitter.com/Queo_io/status/1123844940562300928
+  exceptions:
+    text: "Directly contact me to get my wallet address or make a donation for the blog section using Coinpayments button"
+  keywords:
+  - coinpayments.net
+- name: Ramon L. Perez Photography
+  url: https://ramonlperez.weebly.com/
+  region: na
+  country: US
+  city: San Antonio
+  bch: true
+  btc: false
+  othercrypto: true
+  doc: https://ramonlperez.weebly.com/about.html
+- name: SEO Clerks
+  url: https://www.seoclerk.com/
+  img: seoclerks.png
+  twitter: seoclerks
+  facebook: SeoClerks
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Shipito
+  url: https://www.shipito.com/
+  img: shipito.png
+  twitter: shipito
+  facebook: shipito
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: Shuriken Social
+  url: https://shurikensocial.com
+  img: shurikenSocial.png
+  bch: true
+  btc: true
+  othercrypto: true
+- name: soar.sh
+  url: https://www.soar.sh
+  img: soarsh.png
+  bch: true
+  btc: false
+  othercrypto: true
+  keywords:
+  - savvy
+- name: South Lexicon Translations
+  url: https://www.lexicon-translations.com
+  img: southlexicontr.png
+  facebook: south.lexicon.translations
+  email_address: itzortzak@gmail.com
+  bch: true
+  btc: true
+  othercrypto: true
+  doc: https://www.lexicon-translations.com/2018/06/bitcoin-cash-and-bitcoin-core-accepted.html
+- name: The Australian Business Services Network
+  url: https://www.tabsnetwork.com
+  img: TheAustralianBusinessServicesNetwork.png
+  bch: true
+  btc: true
+  othercrypto: true
+  email_address: info@tabsnetwork.com
+  country: AU
+- name: The Computer Wellness Center
+  url: http://www.computer-wellness.com
+  img: computerwellnesscenter.png
+  email_address: eric@computer-wellness.com
+  region: na
+  country: US
+  city: Boston
+  bch: true
+  btc: false
+  othercrypto: true
+- name: tiptrans
+  url: https://www.tiptrans.com/
+  img: tiptrans.png
+  facebook: tiptranscom
+  twitter: TiptransCom
+  bch: true
+  btc: true
+  keywords:
+  - bitpay
+  - bip70
+- name: Trader's Way
+  url: https://www.tradersway.com
+  img: TradersWay.png
+  twitter: TradersWay
+  facebook: tradersway.forex.broker
+  bch: true
+  btc: true
+  othercrypto: true
+- name: Tradingview
+  url: https://www.tradingview.com/
+  img: tradingview.png
+  twitter: tradingview
+  facebook: tradingview
+  bch: true
+  btc: true
+  othercrypto: true
+  keywords:
+  - coinbase
+- name: Triple E Heating and Air
+  url: https://eeehvac.com/
+  img: TripleEHeatingandAir.png
+  bch: true
+  btc: false
+  othercrypto: true
+  facebook: eeehvac
+  email_address: contact@eeehvac.com
+  region: na
+  country: US
+  city: Baltimore Metro Area
+- name: Truehand Engraving
+  url: https://www.truehand.com
+  img: TruehandEngraving.png
+  bch: true
+  btc: true
+  othercrypto: false
+  email_address: david@truehand.com
+  country: CA
+- name: Viabox
+  url: https://www.viabox.com/
+  img: viabox.png
+  twitter: viabox
+  facebook: viaboxcom
+  region: na
+  country: US
+  state: Oregon
+  city: Portland
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
+- name: WIRmachenDRUCK
+  url: https://www.wir-machen-druck.de/
+  img: wirmachendruck.png
+  twitter: _WIRmachenDRUCK
+  facebook: wirmachendruck.de
+  lang: de
+  bch: true
+  btc: true
+  othercrypto: false
+  keywords:
+  - bitpay
+  - bip70
